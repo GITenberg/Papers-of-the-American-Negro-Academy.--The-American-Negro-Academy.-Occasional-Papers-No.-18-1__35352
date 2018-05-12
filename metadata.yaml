@@ -1,0 +1,66 @@
+_repo: Papers-of-the-American-Negro-Academy.--The-American-Negro-Academy.-Occasional-Papers-No.-18-1__35352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Schomburg, Arthur Alfonso
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '37620'
+    url: http://www.gutenberg.org/2009/agents/37620
+  - agent_name: Pickens, William
+    birthdate: 1881
+    deathdate: 1954
+    gutenberg_agent_id: '37621'
+    url: http://www.gutenberg.org/2009/agents/37621
+  - agent_name: Hershaw, Lafayette M.
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '35133'
+    url: http://www.gutenberg.org/2009/agents/35133
+  - agent_name: Cromwell, John Wesley
+    alias: Cromwell, John W. (John Wesley)
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '35157'
+    url: http://www.gutenberg.org/2009/agents/35157
+  - agent_name: Steward, T. G. (Theophilus Gould)
+    aliases:
+    - Steward, Theophilus Gould
+    - Stewart, T. G. (Theophilius Gould)
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '6909'
+    url: http://www.gutenberg.org/2009/agents/6909
+    wikipedia: http://en.wikipedia.org/wiki/Theophilus_Gould_Steward
+  - agent_name: Grimké, Archibald Henry
+    aliases:
+    - Grimké, Archibald H.
+    - Grimke, Archibald Henry
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '5574'
+    url: http://www.gutenberg.org/2009/agents/5574
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Grimke
+description: ''
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- Congresses'
+tableOfContents: The sex question and race segregation / A.H. Grimke -- Message of
+  San Domingo to the African race / T.G. Steward -- Status of the free Negro prior
+  to 1860 / L.M. Hershaw -- Economic contribution by the Negro to America / A.A. Schomberg
+  -- The status of the free Negro from 1860-1870 / W. Pickens -- American Negro bibliography
+  of the year / J.W. Cromwell.
+title: Papers of the American Negro Academy. (The American Negro Academy. Occasional
+  Papers, No. 18-19.)
+url: http://www.gutenberg.org/ebooks/35352
